@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactIDCard/static/css/main.4466c3e4.css",
+    "main.js": "/ReactIDCard/static/js/main.965f3c85.js",
+    "static/js/787.9334d1e4.chunk.js": "/ReactIDCard/static/js/787.9334d1e4.chunk.js",
+    "static/media/profile.jpg": "/ReactIDCard/static/media/profile.d22734ae7341d095ebe9.jpg",
+    "index.html": "/ReactIDCard/index.html",
+    "main.4466c3e4.css.map": "/ReactIDCard/static/css/main.4466c3e4.css.map",
+    "main.965f3c85.js.map": "/ReactIDCard/static/js/main.965f3c85.js.map",
+    "787.9334d1e4.chunk.js.map": "/ReactIDCard/static/js/787.9334d1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4466c3e4.css",
+    "static/js/main.965f3c85.js"
+  ]
+}
